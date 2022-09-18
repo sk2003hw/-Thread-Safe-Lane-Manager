@@ -4,7 +4,7 @@ The code has been explained as comments in the program. These are not being post
 
 ### Key points
 • Users can book a lane in their name and players can log in with the
-booker’s name, in any order.
+booker’s name, in any order.  
 • Multiple player threads and booker threads can be run safely. Extrinsic
-monitors and Reentrant locks have been used.
-• Achieved 95% in this coursework.
+monitors and Reentrant locks have been used.  
+• Achieved 95% in this coursework.  
